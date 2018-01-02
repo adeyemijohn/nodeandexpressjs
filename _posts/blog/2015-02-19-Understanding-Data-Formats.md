@@ -12,13 +12,13 @@ tags:
 ---
 
 # Common Data-Viz Formats
-Data Visualization via computers means that you take some existing data and use a computer to process the information that you have gathered. In order to create visualizations, the data has to be converted (or parsed) into a format that is easy for computers to understand. There are many formats available, but some are better than other depending on what you're using to process. Lets take a look at some of our options.
+Data Visualization via computers means that you take some existing data and use a computer to process the information that you have gathered. In order to create visualizations, the data has to be converted (or parsed) into a format that is easy for computers to understand. There are many formats available, but some are better than others depending on what you're using to process. Let's take a look at some of our options.
 
 ## Microsoft Excel
 ![Microsoft Excel](http://i.imgur.com/qeKvuau.png)
 The most common format that people will use to process and sometimes visualize data is Microsoft Excel. Developed by Microsoft for Macintosh computers in 1988. Microsoft Excel is one of the most popular office productivity applications used in offices throughout the world.
 
-Each version of Excel by default uses a proprietary format that although ubiquitous, is not compatible with other software. However, the program is so popular that it has become a standard for delivering data in many places. Excel does allow you export in more common formats like CSV (comma separated Values), Tab Delimited Text, XML and even has options to save as web pages. However because of the complexity of the application and it's use as a presentation tool, some of these exports produce files that can be complex and tough for computers to parse.
+Each version of Excel by default uses a proprietary format that although ubiquitous, is not compatible with other software. However, the program is so popular that it has become a standard for delivering data in many places. Excel does allow you export in more common formats like CSV (comma separated Values), Tab Delimited Text, XML and even has options to save as web pages. However because of the complexity of the application and its use as a presentation tool, some of these exports produce files that can be complex and tough for computers to parse.
 
 ### Advantages
 - Ubiquitous
@@ -32,7 +32,7 @@ Each version of Excel by default uses a proprietary format that although ubiquit
 ## CSV (and other text-based formats)
 The most compatible format for sharing information in almost all cases is just a simple text file and just about any application that needs information will read some version of a text format, however structured data like the type you need to visualize often needs to contain information about rows and columns that is not easily expressed through a text file.
 
-One of the oldest and most common formats for saving data is the CSV file. It predates personal computers and has been used since the 1960s in just about every computer language. CSV stands for Comma Separated Values and as the name implies lets you express data by separating it with commas.
+One of the oldest and most common formats for saving data is the CSV file. It predates personal computers and has been used since the 1960s in just about every computer language. CSV stands for Comma Separated Values and, as the name implies, lets you express data by separating it with commas.
 
 ```
 Name,Address,City,Sales
@@ -48,7 +48,7 @@ Name,Address,City,Sales
 "Swanson, Cheyenne X.",Ap #963-5065 Massa. Rd.,Kapelle-op-den-Bos,$3322.18
 ```
 
-CSV is a very loose format and because of that,there is no official standard, therefore, the implementations sometimes vary. One attempt at a standard has been [rfc4180](https://tools.ietf.org/html/rfc4180), although often the specifics of how numbers are read are left to the application reading the format.
+CSV is a very loose format and because of that, there is no official standard. Therefore, the implementations sometimes vary. One attempt at a standard has been [rfc4180](https://tools.ietf.org/html/rfc4180), although often the specifics of how numbers are read are left to the application reading the format.
 
 CSV format is very easy to understand, each column on a table is separated by commas, any string data is written in single or double quotes, numeric values need no quotations.  The first row of data is usually reserved for the column names. Also, although commas are traditionally used, because this is a text format, people often use other delimiters. Therefore, you'll find variations of this format as TSV (Tab Separated Values). 
 
