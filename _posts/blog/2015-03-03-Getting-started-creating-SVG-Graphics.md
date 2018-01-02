@@ -37,9 +37,9 @@ Inside the SVG tag, you can create additional elements that generate graphics. H
 
 - <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/text">Text</a>
 
-If you come from an HTML background, there are some important thigns to note about this code. First, you'll notice that the tags use a self closing style when they are single tags. So instead of writing something like `<rect></rect>` you can write something like `<rect> />`. SGV looks like HTML, but it isn't exactly HTML, so an XHTML style is used for the tags and they are. Although most browsers will be forgiving on some traditional XML rules like capitalization, punctuation and quotes around attributes, the format itself is more strict.
+If you come from an HTML background, there are some important things to note about this code. First, you'll notice that the tags use a self closing style when they are single tags. So instead of writing something like `<rect></rect>` you can write something like `<rect> />`. SGV looks like HTML, but it isn't exactly HTML, so an XHTML style is used for the tags. Although most browsers will be forgiving on some traditional XML rules like capitalization, punctuation and quotes around attributes, the format itself is more strict.
 
-For example technically, the `<svg>` tag should include and SVG namespace declaration specifying the version and format of the library you're using.
+For example, technically, the `<svg>` tag should include an SVG namespace declaration specifying the version and format of the library you're using.
 
 ```
 	<svg xmlns="http://www.w3.org/2000/svg" …>
@@ -52,4 +52,4 @@ For example technically, the `<svg>` tag should include and SVG namespace declar
 
 Here's where you can <a href="http://www.w3.org/Graphics/SVG/">learn more about the SVG specification</a> and format.
 
-You might also notice that like with HTML we can use the style attribute and use CSS to control 
+You might also notice that like with HTML we can use the style attribute and use CSS. 
