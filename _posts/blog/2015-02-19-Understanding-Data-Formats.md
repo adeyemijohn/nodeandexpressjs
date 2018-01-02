@@ -212,7 +212,7 @@ Companies:
     country:    Taiwan
 ```
 
-Notice how beautiful that is to read and if you were to give this to someone to type in a text editor, it would be fairly easy for even someone without YAML experience to stick to the rules.  Unlike with JSON, strings do not have to be quoted. Also, notice that although the whitespace is relevant, in YAML, we're adding tabs to make things align an make them more readable. Here's what that data would look like expressed as JSON.
+Notice how beautiful that is to read. If you were to give this to someone to type in a text editor, it would be fairly easy for even someone without YAML experience to stick to the rules.  Unlike with JSON, strings do not have to be quoted. Also, notice that although the whitespace is relevant, in YAML, we're adding tabs to make things align and make them more readable. Here's what that data would look like expressed as JSON.
 
 ```json
 {
@@ -250,7 +250,7 @@ Notice how beautiful that is to read and if you were to give this to someone to 
     ]
 }
 ```
-YAML is a great format for typing data, but it is not readily understood  or parsed by most programming languages. It usually has to be converted into JSON and different libraries exist to do this. 
+YAML is a great format for typing data, but it is not readily understood or parsed by most programming languages. It usually has to be converted into JSON, and different libraries exist to do this. 
 
 ### Advantages
 
@@ -260,7 +260,7 @@ YAML is a great format for typing data, but it is not readily understood  or par
 ### Disadvantages
 
 - Tough to learn at first
-- Poor  support
+- Poor support
 - Needs to be converted
 
 
