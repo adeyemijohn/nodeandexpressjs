@@ -202,7 +202,7 @@
 
 - title: Building a Website with Node.js and Express.js
   date: '2016-09-19'
-  summary: Build JavaScript websites that do more. Learn how to use Node.js and Express to build multi-page websites and apps with features like creating an API, Reading and writing files, HTTP verbs like GET, POST and DELETE, plus creating a live chat with Socket.IO.
+  summary: Build JavaScript websites that do more. Learn how to use Node.js and Express to build multi-page websites and apps with features like creating an API, reading and writing files, HTTP verbs like GET, POST and DELETE, plus creating a live chat with Socket.IO.
   images:
     thumb: https://cdn.lynda.com/courses/502310-636071995894767664_88x158_thumb.jpg
     hero: https://cdn.lynda.com/course/502310/502310-636070288437663461-16x9.jpg
@@ -361,7 +361,7 @@
 
 - title: Up and Running with Git and GitHub
   date: '2015-07-06'
-  summary: Learning Git and GitHubPreviewLearn to work with the most common Git commands, and use GitHub to clone, explore, and create templates from existing projects.
+  summary: Learning Git and GitHub Preview. Learn to work with the most common Git commands, and use GitHub to clone, explore, and create templates from existing projects.
   images:
     thumb: https://cdn.lynda.com/courses/409275-635721397427583922_152x270_thumb.jpg
     hero: https://cdn.lynda.com/courses/409275-635724498203640784_1440x2160_thumb.jpg
@@ -441,7 +441,7 @@
 
 - title: Next Generation CSS Design with PostCSS and CSSNext
   date: '2017-04-28'
-  summary: Learn how to work with PostCSS and CSSNext. Discover how to create a realistic single-page site that uses cutting-edge CSS features while maintaining compatibility with older browsers
+  summary: Learn how to work with PostCSS and CSSNext. Discover how to create a realistic single-page site that uses cutting-edge CSS features while maintaining compatibility with older browsers.
   images:
     thumb: https://media-exp2.licdn.com/media-proxy/ext?w=512&h=288&f=n&hash=iXpBmxgXBHavdqk6Fp%2FHBY4Zn9I%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-lUyaq-NGfZH_qecXbZLSiol8ecC4FlAE6fO-qQjfkEI69LcLmY4Yx3A
     hero: https://media-exp2.licdn.com/media-proxy/ext?w=1200&h=675&f=n&hash=Df60%2FO0xXmWCdpBVw5M99GF6AZ0%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-lUyaq-NGfZH_qecXbZLSiol8ecC4FlAE6fO-qQjfkEI69LcLmY4Yx3A
@@ -461,7 +461,7 @@
 
 - title: Bootstrap 4 Essential Training
   date: '2017-03-31'
-  summary: Learn the essentials of Bootstrap. Discover how to work with this popular front-end framework to quickly and easily build responsive, mobile-ready websites that are cross-browser compatible
+  summary: Learn the essentials of Bootstrap. Discover how to work with this popular front-end framework to quickly and easily build responsive, mobile-ready websites that are cross-browser compatible.
   images:
     thumb: https://media-exp2.licdn.com/media-proxy/ext?w=512&h=288&f=n&hash=1wF2RFbOWNGzz8jERPKUOVv4tts%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-iXCev_tCfY3DrfMPaZLSiol8QeyUFkwY3eu6tSTPkEY69LcLmY4Yx3A
     hero: https://media-exp2.licdn.com/media-proxy/ext?w=1200&h=675&f=n&hash=KVLRopcdZaCdLg0HcOPNC5Db4o8%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-iXCev_tCfY3DrfMPaZLSiol8QeyUFkwY3eu6tSTPkEY69LcLmY4Yx3A
