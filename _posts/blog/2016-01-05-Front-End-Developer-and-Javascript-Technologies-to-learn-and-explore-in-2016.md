@@ -51,7 +51,7 @@ This year is going to be a second breakout year for Angular JS with a new versio
 
 ## React
 <iframe width='560' height='315' src='https://www.lynda.com/player/embed/433101?fs=3&w=560&h=315&ps=paused&utm_medium=referral&utm_source=embed+video&utm_campaign=ldc-website&utm_content=vid-433101' mozallowfullscreen='true' webkitallowfullscreen='true' allowfullscreen='true' frameborder='0'></iframe>
-2015's breakout framework was definitely React, so if you've been holding out, 2016 is the time to give it a chance. React is not a replacement for Angular or other popular frameworks, but specifically focused on building user interface components. There's a lot of things to learn here including the JSX language, state and stateless functional components. . This is also something I want to build a project based course on, so keep an eye our for more on that from me in the future.
+2015's breakout framework was definitely React, so if you've been holding out, 2016 is the time to give it a chance. React is not a replacement for Angular or other popular frameworks, but specifically focused on building user interface components. There's a lot of things to learn here including the JSX language, state and stateless functional components. This is also something I want to build a project based course on, so keep an eye out for more on that from me in the future.
 
 ### Related Course
 - [Up and Running with React](http://www.lynda.com/React-js-tutorials/Up-Running-React-js/379264-2.html)
