@@ -2,7 +2,7 @@
 layout: page
 category: blog
 title: 6 JavaScript technologies Front-end developers should already know
-summary: Life's tough for a front end developer because the pace of learning moves so fast. Today's developer needs to be familiar with a number of libraries, frameworks and processes in order to be successful. Here's my list of JavaScript technologies that you should already be familiar if you're a professional front end developer.
+summary: Life's tough for a front end developer because the pace of learning moves so fast. Today's developer needs to be familiar with a number of libraries, frameworks and processes in order to be successful. Here's my list of JavaScript technologies that you should already be familiar with if you're a professional front end developer.
 images:
   hero: "http://i.imgur.com/Ol49PvF.png"
 tags:
@@ -43,6 +43,6 @@ Modern development would be nothing without Open Source tools. And [Github](http
 
 ## Pre-Processors & Transpilers
 [![Babel](http://i.imgur.com/kw94yuz.png)](https://babeljs.io)
-I'm a big believer in working smarter, and that means spending time on technologies that help me become more efficient. Therefore, I love things like [Sass](http://sass-lang.com/), [Less](http://lesscss.org/) [PostCSS](https://github.com/postcss/postcss) and others that give languages new capabilities. Once you've learn how to work with CSS variables, you'll never go back to plain CSS. In the same way, the ability to work with functions (mixins) and extends makes your code smarter by allowing you to create reusable bits of code. Today some of these libraries, like Sass have been ported over to JavaScript for blazing performance and without requiring a Ruby install.
+I'm a big believer in working smarter, and that means spending time on technologies that help me become more efficient. Therefore, I love things like [Sass](http://sass-lang.com/), [Less](http://lesscss.org/) [PostCSS](https://github.com/postcss/postcss) and others that give languages new capabilities. Once you've learned how to work with CSS variables, you'll never go back to plain CSS. In the same way, the ability to work with functions (mixins) and extends makes your code smarter by allowing you to create reusable bits of code. Today some of these libraries, like Sass have been ported over to JavaScript for blazing performance and without requiring a Ruby install.
 
 [PostCSS](https://github.com/postcss/postcss) eliminates the need for prefixed code, has a large library of plugins with Sass-like features and can even help you use future CSS features today. Another hot new technology...transpilers like [Babel](https://babeljs.io/) let you use ES2015(ES6) in today's browsers or use languages like TypeScript that add interesting new features to your programming arsenal. If you aren't taking advantage of these workflow enhancements, then you're wasting time writing CSS/JavaScript and falling behind on what you can do with programming languages today.
