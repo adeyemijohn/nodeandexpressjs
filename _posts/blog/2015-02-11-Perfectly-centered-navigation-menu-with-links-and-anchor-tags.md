@@ -4,7 +4,8 @@ category: blog
 title: Horizontally Centered Navigation Menu with CSS
 summary: "Getting a menu to center horizontally is surprisingly hard, especially when you're using CSS lists. In this tutorial, I'll show you how to change the display element to pretend you're centering a table, which is easy."
 images:
-  hero: "http://i.imgur.com/KfhOpwa.png"
+  hero: /assets/images/articles/horizontally.png
+  thumb: /assets/images/articles/horizontally_tn.png
 links:
   video: https://www.youtube.com/watch?v=RT64aSNXnzY
   code: http://jsbin.com/popalu/12/edit?html,css,output
@@ -13,6 +14,7 @@ tags:
 - css
 - navigation
 ---
+
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" width="700" height="450" src="https://www.youtube.com/embed/RT64aSNXnzY" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -24,6 +26,7 @@ My current approach is to do something that ends up looking like this.
 <a class="jsbin-embed" href="http://jsbin.com/popalu/11/embed?output">JS Bin</a><script src="http://static.jsbin.com/js/embed.js"></script>
 
 ## The Trick
+
 Since you can just read the code above or watch the video, I'll give you the highlights so you can catch the critical part.
 
 ```html
@@ -44,8 +47,8 @@ I've simplified it a bit here for clarity. The key extra item here is the additi
 ```css
 .sitemenu {
   width: 100%;
-  background: #A2CEA5;
-  font-family: "Droid Sans", serif;
+  background: #a2cea5;
+  font-family: 'Droid Sans', serif;
   border-top: 8px solid #126758;
 }
 ```
@@ -54,10 +57,11 @@ I've simplified it a bit here for clarity. The key extra item here is the additi
 The main thing here is the `width: 100%;` on the nav with the sitemenu class. You should have a container here that makes the width of the navigation container go full width. If you examine the code (by clicking on the HTML tab in the code window).
 
 ## Enter the table style
+
 next, you need to have another container inside the first one that sets its display to show up as if it were a table.
 
 ```css
-.sitemenu>.navwrapper {
+.sitemenu > .navwrapper {
   display: table;
   margin: 0 auto;
 }

@@ -8,7 +8,8 @@ links:
   linkedin: https://www.linkedin.com/pulse/getting-love-learning-reactjs-ray-villalobos
 
 images:
-  hero: "https://dl.dropboxusercontent.com/s/hajchgzne3wm5yo/2016-08-13%20at%204.11%20PM.png"
+  hero: /assets/images/articles/react.jpg
+  thumb:  /assets/images/articles/react_tn.png
 tags:
 - front-end developer
 - full-stack developer
