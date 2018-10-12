@@ -1,5 +1,25 @@
 ---
 
+- title: 'Bootstrap 4 Layouts: Responsive Single-Page Design'
+  date: '2018-09-17'
+  summary: "Find out how Bootstrap 4 can transform your standard HTML websites into inspired single-page designs. This course takes a project-based approach to explaining how to manipulate website layouts with the Bootstrap framework. Throughout the course, instructor Ray Villalobos works through popular layout patterns, helping to acquaint you with concepts that are key to creating a cohesive layout with Bootstrap. Ray tackles Bootstrap layout classes and shows what it takes to customize its CSS, addressing layout challenges like multiple grids and columns. Learn how to leverage the Scrollspy plugin to track navigation, how to create an image carousel, and how to build animations. Plus, this course provides you with a ready-to-go template with which to start new projects."
+  images:
+    thumb: /assets/images/courses/bootstrap4layouts_tn.jpg
+    hero: /assets/images/courses/bootstrap4layouts.jpg
+  links:
+    lynda: https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-Layouts-Responsive-Single-Page-Design/417642-2.html
+    lil: https://linkedin-learning.pxf.io/c/1252977/449670/8005?subId1=linkedin&u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fbootstrap-4-layouts-responsive-single-page-design
+
+- title: 'Code Clinic: JavaScript'
+  date: '2018-08-06'
+  summary: "Successful programmers know more than just how to code. They also know how to think about solving problems. Code Clinic is a series of courses where our instructors solve the same problems using different programming languages. Here, Ray Villalobos works with JavaScript. Throughout the course, Ray introduces challenges and then provides an overview of his solutions in JavaScript. Challenges include topics such as geolocation, face recognition, and accessing peripheral devices. Visit other courses in the series to see how to solve the same challenges in languages like C++, C#, PHP, Python, Ruby, Go, and Swift."
+  images:
+    thumb: /assets/images/courses/codeclinicjs_tn.jpg
+    hero: /assets/images/courses/codeclinicjs.jpg
+  links:
+    lynda: https://www.lynda.com/JavaScript-tutorials/Code-Clinic-JavaScript/706928-2.html
+    lil: https://linkedin-learning.pxf.io/c/1252977/449670/8005?subId1=linkedin&u=https%3A%2F%2Flinkedin-learning.pxf.io%2Fc%2F1252977%2F449670%2F8005
+
 - title: 'jQuery: Building an Interface'
   date: '2018-04-19'
   summary: "Create an interactive user interface that uses the strengths of jQuery, Bootstrap, Underscore.js, and the vast library of jQuery plugins. I show you how to use the jQuery selector engine to select DOM elements, and how to manage actions with jQuery events. He accesses external data with AJAX methods, and extends jQuery with plugins for templating webpages and formatting data. He also shows how to sort and search through data with the Underscore.js library and add and edit form data. This hands-one project will strengthen your jQuery skills and help you build more sophisticated and responsive user interfaces."
@@ -207,7 +227,7 @@
   images:
     thumb: /assets/images/courses/adaptive_tn.png
     hero: /assets/images/courses/adaptive.jpg
-  links: 
+  links:
     lynda: https://www.lynda.com/HTML-tutorials/Creating-an-Adaptive-Web-Site-for-Multiple-Screens/85083-2.html
     lil: https://linkedin-learning.pxf.io/c/1252977/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcreating-an-adaptive-web-site-for-multiple-screens
 
