@@ -76,7 +76,7 @@ document.getElementById("placeholder").innerHTML=data.users[0].firstName + " " +
 </script>
 
 ```
-[See the JSON example on JS Fiddle](https://web.archive.org/web/20170614155407/http://jsfiddle.net/planetoftheweb/XcpGN/3/)
+[See the JSON example on JS Fiddle](http://jsfiddle.net/planetoftheweb/XcpGN/3/)
 
 This looks more complicated, but it’s not really too hard to understand. Every object in JSON is stored with curly braces {}, an array is stored with brackets[]. So in order to organize our data, we created an object called users, which held an array (using brackets). That object had a couple of other objects…each stored like before with curly braces {}. Each element in that object was separated by commas.
 
@@ -111,7 +111,7 @@ document.getElementById("placeholder").innerHTML=data.users[0].firstName + " " +
 ```
 ![JSON Example 02](/assets/images/articles/json02-rayjanuary.png)
 
-[See the JSON example on JS Fiddle](https://web.archive.org/web/20170614155407/http://jsfiddle.net/planetoftheweb/XcpGN/4/)
+[See the JSON example on JS Fiddle](http://jsfiddle.net/planetoftheweb/XcpGN/4/)
 
 Just one tiny level of complexity. We just added multiple fields to the joined object. We didn’t need an array here, just a series of objects, so we used the object notation. This is great and we’ve got some pretty good data, but now that we have multiple users, it’s time to go through each user and output them into a list.
 
@@ -153,7 +153,7 @@ So, if we want to go through the user list, we could simply use JavaScript’s f
 </script>
 ```
 
-[See the JSON example on JS Fiddle](https://web.archive.org/web/20170614155407/http://jsfiddle.net/planetoftheweb/XcpGN/5/)
+[See the JSON example on JS Fiddle](http://jsfiddle.net/planetoftheweb/XcpGN/5/)
 
 So here, we use a for statement and created a variable called output to temporarily store the data. Once we go through all of the elements in the array, we use the output variable to populate the placeholder div. That works well, but as you can tell, our data structure is getting a little long.
 
